@@ -8,8 +8,6 @@ This is where I built my first portfolio while learning at the Incubator Hub
 ### Project Overview
 This Data Analysis project aims to generate the sales performance of the E-commerce project over the past year. 
 
-By analyzing this data, 
-
 ### Data Source
 
 ### Tools Used
@@ -18,3 +16,16 @@ By analyzing this data,
   - SQL Server (For Querying and Analysis)
   - Power BI (For Modelling and Report)
   - Ms PowerPoint (For Presentation)
+
+### Data Cleaning and Preparation
+
+In the initial phase of the Data cleaning and preparation, data is cleaned.
+
+### Data Analysis
+
+This is where analysis was done.
+
+```
+SELECT A,B,C
+Where A>B
+```
